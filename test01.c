@@ -4,6 +4,6 @@ int main()
 {
     printf("nihao");
     printf("gengai");
-    printf("list“);
+    printf("feature1");
     return 0;
 }
